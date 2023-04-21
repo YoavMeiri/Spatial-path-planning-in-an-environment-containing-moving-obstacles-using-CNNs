@@ -1,4 +1,4 @@
-﻿# CogRobProj
+﻿# Cognitive Robotics Course Project (Technion 097244) 
 We consider the problem of spatial path planning, in an environment containing
 moving obstacles. In contrast to the classical solutions, in this work we learn a planner
 from the data (in a supervised learning manner) that allows us to leverage statistical
