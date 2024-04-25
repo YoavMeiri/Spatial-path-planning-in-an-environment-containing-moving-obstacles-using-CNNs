@@ -1,0 +1,5 @@
+*.html linguist-vendored
+*.ipynb linguist-vendored
+data/raw/*.tsv filter=lfs diff=lfs merge=lfs -text
+data/interim/fixation_data*.csv filter=lfs diff=lfs merge=lfs -text
+data/interim/ia_data*.csv filter=lfs diff=lfs merge=lfs -text
